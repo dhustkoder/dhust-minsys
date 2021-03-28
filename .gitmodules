@@ -1,0 +1,12 @@
+[submodule "dwm"]
+	path = dwm
+	url = https://github.com/dhustkoder/dwm
+[submodule "dmenu"]
+	path = dmenu
+	url = https://github.com/dhustkoder/dmenu
+[submodule "st"]
+	path = st
+	url = https://github.com/dhustkoder/st
+[submodule "vim-setup"]
+	path = vim-setup
+	url = https://github.com/dhustkoder/vim-setup
